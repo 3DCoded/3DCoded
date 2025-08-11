@@ -1,8 +1,8 @@
 # 3DCoded
 
-**I am a 3D printing enthusiast and got my Prusa MK3S+ in August of 2022.**
+**I am a 3D printing enthusiast and enjoy tinkering with and expanding my Klipper-based printers.**
 
----
+[![Discord Shield](https://discord.com/api/guilds/1307104511663411210/widget.png?style=banner2)](https://discord.gg/ekqxDhdGCg)
 
 # Projects
 
