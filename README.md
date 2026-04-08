@@ -1,6 +1,6 @@
 # 3DCoded
 
-**I am a 3D printing enthusiast and enjoy tinkering with and expanding my Klipper-based printers.**
+**3D printing enthusiast who enjoys tinkering with and expanding my Klipper-based printers.**
 
 [![Discord Shield](https://discord.com/api/guilds/1307104511663411210/widget.png?style=banner2&a=b)](https://discord.gg/ekqxDhdGCg)
 
